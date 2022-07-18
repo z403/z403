@@ -6,9 +6,10 @@
 
 # 👏 Activity
 
-所属 [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
+所属 [AVALON Gaming](https://twitter.com/jpn_avalon).
 - AVALON Gaming VALORANT部門　General Manager
 - [総合学園ヒューマンアカデミー](https://ha.athuman.com)　非常勤講師
+- ML / DL engineering
 - 教育業4年(大手塾、個人塾、家庭教師)、飲食業4年（大手カフェ、居酒屋、レストラン）
 
 # 📨 Contact
