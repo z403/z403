@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-埼玉県民
+埼玉県民　22y/o
 
-22歳 (2000/05生) 武蔵高等学校卒　芝浦工業大学二年次中退（工学部情報工学科）
+武蔵高等学校卒　芝浦工業大学二年次中退（工学部情報工学科）
 
 # 👏 Activity
 
 所属 [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
 - AVALON Gaming VALORANT部門　General Manager
-- 総合学園ヒューマンアカデミー　非常勤講師
+- [総合学園ヒューマンアカデミー](https://ha.athuman.com)　非常勤講師
 - 教育業4年(大手塾、個人塾、家庭教師)、飲食業4年（大手カフェ、居酒屋、レストラン）
 
 # 💻Tech Stack
