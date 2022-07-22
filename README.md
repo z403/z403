@@ -9,6 +9,7 @@
 所属 [AVALON Gaming](https://twitter.com/jpn_avalon).
 - AVALON Gaming VALORANT部門　General Manager
 - [総合学園ヒューマンアカデミー](https://ha.athuman.com)　非常勤講師
+- VALORANT コーチング（個人 30名以上； チーム 3チーム以上）
 - ML / DL engineering
 - 教育業4年(大手塾、個人塾、家庭教師)、飲食業4年（大手カフェ、居酒屋、レストラン）
 
