@@ -6,7 +6,6 @@
 
 # 👏 Activity
 無所属
-- AVALON Gaming VALORANT部門　General Manager
 - [総合学園ヒューマンアカデミー](https://ha.athuman.com)　非常勤講師
 - VALORANT コーチング（個人 30名以上； チーム 3チーム以上）
 - ML / DL engineering
