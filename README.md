@@ -5,8 +5,7 @@
 武蔵高等学校卒　芝浦工業大学二年次中退（工学部情報工学科）
 
 # 👏 Activity
-
-所属 [AVALON Gaming](https://twitter.com/jpn_avalon).
+無所属
 - AVALON Gaming VALORANT部門　General Manager
 - [総合学園ヒューマンアカデミー](https://ha.athuman.com)　非常勤講師
 - VALORANT コーチング（個人 30名以上； チーム 3チーム以上）
