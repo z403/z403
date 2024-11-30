@@ -3,10 +3,7 @@
 
 ###
 
-<p align="left">24 y/o<br>Living in Tokyo<br><br>- 🔭 I’m working as biz-dev engineer.<br>- 📚 I'm currently learning any languages.<br>- ⚡ Working 24/7</p>
-
-###
-
+<p align="left">24 y/o Biz-dev engineer<p>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
